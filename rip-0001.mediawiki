@@ -4,6 +4,7 @@
  Status: Draft
  Type: Standards Track
  Created: 2015-03-21
+</pre>
 
 == What is a RIP? ==
 RIP stands for Ripple Improvement Proposal. A RIP is a design document providing information to the Ripple community, or describing a new feature for Ripple or its processes or environment. The RIP should provide a concise technical specification of the feature and a rationale for the feature.
