@@ -7,11 +7,11 @@ Having a RIP here does not make it a formally accepted standard until its status
 Those proposing changes should consider that ultimately consent may rest with the consensus of the Ripple users.
 
 {| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
-| Number
-| Title
-| Owner
-| Type
-| Status
+! Number
+! Title
+! Owner
+! Type
+! Status
 |-
 | 1
 | RIP Purpose and Guidelines
