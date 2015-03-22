@@ -51,6 +51,7 @@ RIPs can also be superseded by a different RIP, rendering the original obsolete.
 
 The possible paths of the status of RIPs are as follows:
 
+<img src=rip-0001/RIP_Workflow.png></img>
 [[File:RIP_Workflow.png]]
 
 Some Informational and Process RIPs may also have a status of "Active" if they are never meant to be completed. E.g. RIP 1 (this RIP).
