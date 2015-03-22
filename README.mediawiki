@@ -13,7 +13,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 ! Type
 ! Status
 |-
-| 1
+| [[rip-0001.mediawiki|1]]
 | RIP Purpose and Guidelines
 | William K. Santiago
 | Standard
